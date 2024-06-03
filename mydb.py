@@ -21,6 +21,6 @@ print("All Done!")
 
 ## 11:04
 
-#  python manage.py migrate - להבין
+
 
 
